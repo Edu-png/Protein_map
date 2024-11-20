@@ -1,9 +1,32 @@
 # Visualização 3D de Proteínas
 
+![CAPAS - PROJETOS](https://github.com/user-attachments/assets/b8403373-679c-4b2c-8e74-430dd3c2eae5)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Eduardo%20Coqueiro-blue?style=flat&logo=github)](https://github.com/Edu-png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Coqueiro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardocoqueiro)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Eduardo%20Coqueiro-blue?style=flat&logo=kaggle)](https://www.kaggle.com)
 [![Email](https://img.shields.io/badge/Email-eduardocoqueiro%40gmail.com-blue?style=flat&logo=gmail)](mailto:eduardocoqueiro@gmail.com)
+
+# Sumário
+
+1. [Introdução](#introdução)
+2. [Objetivo](#objetivo)
+3. [Método](#método)
+    1. [Leitura do Arquivo PDB](#leitura-do-arquivo-pdb)
+    2. [Extração das Coordenadas XYZ](#extração-das-coordenadas-xyz)
+    3. [Criação do DataFrame](#criação-do-dataframe)
+    4. [Ajuste de Cores e Tamanhos dos Átomos](#ajuste-de-cores-e-tamanhos-dos-átomos)
+    5. [Visualização 3D](#visualização-3d)
+    6. [Interatividade](#interatividade)
+4. [Resultados](#resultados)
+    1. [Observações](#observações)
+5. [Considerações Finais](#considerações-finais)
+6. [Dependências](#dependências)
+7. [Como Usar](#como-usar)
+    1. [Instalar as dependências](#instalar-as-dependências)
+    2. [Alterar o diretório](#alterar-o-diretório)
+    3. [Rodar o código](#rodar-o-código)
+8. [Agradecimentos](#agradecimentos)
 
 ## Introdução
 
